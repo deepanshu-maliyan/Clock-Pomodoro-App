@@ -1,7 +1,7 @@
 # Clock-Pomodoro-App
 # Clock, Pomodoro, and Productivity App  
 
-![App Screenshot](path/to/your/screenshot.png)  
+![App Screenshot](Screenshots)  
 
 This is a versatile **Clock, Pomodoro, and Productivity App** designed for iOS using Swift. It helps users manage their time effectively with features like a **clock**, **Pomodoro timer**, **adjustable breaks**, **custom timers**, **stopwatch**, and a **calendar** for scheduling and tracking productivity.  
 
@@ -50,18 +50,18 @@ This is a versatile **Clock, Pomodoro, and Productivity App** designed for iOS u
 
 ## Screenshots  
 1. **Home Screen**  
-   ![Home Screen](path/to/screenshot1.png)  
+   ![Home Screen](Clock-Pomodoro-App/clock.png)  
 
-2. **Pomodoro Timer**  
+3. **Pomodoro Timer**  
    ![Pomodoro Timer](path/to/screenshot2.png)  
 
-3. **Custom Timer**  
+4. **Custom Timer**  
    ![Custom Timer](path/to/screenshot3.png)  
 
-4. **Stopwatch**  
+5. **Stopwatch**  
    ![Stopwatch](path/to/screenshot4.png)  
 
-5. **Calendar**  
+6. **Calendar**  
    ![Calendar](path/to/screenshot5.png)  
 
 ## Requirements  
