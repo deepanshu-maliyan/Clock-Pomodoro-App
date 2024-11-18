@@ -50,19 +50,19 @@ This is a versatile **Clock, Pomodoro, and Productivity App** designed for iOS u
 
 ## Screenshots  
 1. **Home Screen**  
-   ![Home Screen](Clock-Pomodoro-App/clock.png)  
+   ![Home Screen](Screenshots/clock.png)  
 
 3. **Pomodoro Timer**  
-   ![Pomodoro Timer](path/to/screenshot2.png)  
+   ![Pomodoro Timer](Screenshots/Pomodoro.png)  
 
 4. **Custom Timer**  
-   ![Custom Timer](path/to/screenshot3.png)  
+   ![Custom Timer](Screenshots/Timer.png)  
 
 5. **Stopwatch**  
-   ![Stopwatch](path/to/screenshot4.png)  
+   ![Stopwatch](Screenshots/Stopwatch.png)  
 
 6. **Calendar**  
-   ![Calendar](path/to/screenshot5.png)  
+   ![Calendar](Screenshots/Calender.png)  
 
 ## Requirements  
 - iOS 14.0 or later  
